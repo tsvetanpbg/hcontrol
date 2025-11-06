@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1760253637334,
+      "tag": "0000_yielding_human_cannonball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1760254751136,
+      "tag": "0001_lyrical_selene",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1760255670146,
+      "tag": "0002_free_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1760513481303,
+      "tag": "0003_small_clea",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1760734356270,
+      "tag": "0004_regular_zodiak",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1760735543350,
+      "tag": "0005_majestic_wiccan",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1761126362801,
+      "tag": "0006_real_doctor_octopus",
+      "breakpoints": true
+    }
+  ]
+}
